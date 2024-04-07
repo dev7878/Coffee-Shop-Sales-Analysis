@@ -36,15 +36,3 @@ The included screenshot provides a visual summary of the findings through charts
 ## Usage
 The spreadsheet can be used to perform further analysis, while the PDF and PNG provide quick reference and visual insights. These files serve as a basis for making informed decisions to improve service, optimize product offerings, and better manage peak hours and store locations.
 
-## Contribute
-Contributions, questions, and comments are welcome. Please feel free to raise an issue or submit a pull request.
-
-## License
-[MIT License](LICENSE.md)
-
-## Contact
-Please reach out via GitHub issues for any queries or discussions related to this project.
-
----
-
-_This analysis is provided as a guide to understanding the business operations of the Coffee Shop. While every effort is made to ensure accuracy, all data should be verified before making business decisions._
